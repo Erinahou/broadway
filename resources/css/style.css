@@ -1,0 +1,19 @@
+body {
+  font-family: helvetica, sans-serif;
+  text-align: center;
+}
+
+.hero {
+  background-image: url("/Users/erinaho/Documents/projects/broadway/resources/images/the-flatiron-building.png");
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.nav-item {
+  font-size: 18px;
+  color: white;
+}
