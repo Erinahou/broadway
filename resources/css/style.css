@@ -32,3 +32,8 @@ h3 {
 p {
   font-size: 14px;
 }
+
+.ny {
+  color: white;
+  background-image: url(/Users/erinaho/Documents/projects/broadway/resources/images/the-flatiron-building.png);
+}
