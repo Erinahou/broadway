@@ -7,13 +7,28 @@ body {
   background-image: url("/Users/erinaho/Documents/projects/broadway/resources/images/the-flatiron-building.png");
 }
 
+h1, h2, h3 {
+  font-weight: bold;
+}
+
 h1 {
   font-size: 70px;
-  font-weight: bold;
   color: white;
 }
 
 .nav-item {
   font-size: 18px;
   color: white;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
 }
